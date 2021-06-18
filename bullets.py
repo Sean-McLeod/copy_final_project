@@ -5,8 +5,6 @@
 # This is the bullet class
 
 
-
-
 import constants
 import pygame
 from pygame import mixer
